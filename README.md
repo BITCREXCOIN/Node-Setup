@@ -17,7 +17,7 @@ sudo apt-get install libdb4.8-dev libdb4.8++-dev
 sudo apt-get install libzmq3-dev
 
 
-*Note: To start binjit-qt for linux - desktop you need to install 
+*Note: To start bitcrexcoin-qt for linux - desktop you need to install 
 
 sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 libqt5svg5-dev libqt5charts5-dev qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler libqrencode-dev 
 
