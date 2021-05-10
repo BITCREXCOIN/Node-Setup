@@ -34,6 +34,6 @@ cp -r * /usr/bin/
 
 cd
 =========================================================
-That's it. Just start "binjitd --daemon" to start binjit node
+That's it. Just start "bitcrexcoind --daemon" to start bitcrex node
 
-To start master node, make config file (binjit.conf) in data directory .bnjcoin and restart daemon.
+To start master node, make config file (bitcrexcoin.conf) in data directory .bitcrexcoin and restart daemon.
