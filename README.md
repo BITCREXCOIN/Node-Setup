@@ -26,6 +26,7 @@ sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 libqt5svg5-dev libqt5ch
 Download https://github.com/BITCREXCOIN/BitcrexCoin-Core/releases/tag/v1.0.1.2
 
 =========================================================
+
 tar -xvf BitcrexCoin Wallet
 
 cd BitcrexCoin/bin/
